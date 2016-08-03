@@ -1,9 +1,4 @@
-    ############# Application #4 - Part #1 #############
-
-#Configure the permissions on the script first! 'chmod 755 script.py"
-
-#Make sure to have SSHv2 enabled and RSA 1024 bit key generated on every device!
-
+    ############# Application #4 ############
 
 import MySQLdb as mdb
 import paramiko

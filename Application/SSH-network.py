@@ -1,4 +1,4 @@
-    ############# Application #2 - Part #1 #############
+    ############# Application #2 #############
 
 import paramiko
 import threading

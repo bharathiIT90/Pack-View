@@ -1,4 +1,4 @@
-    ############# Application #3 - Part #1 #############
+    ############# Application #3 #############
 
 #DHCP client simulator
 

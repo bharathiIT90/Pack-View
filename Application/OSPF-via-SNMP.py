@@ -1,4 +1,4 @@
-	############# Application #5 - Part #1 #############
+	############# Application #5 #############
 
 '''
 Make the following configuration on each router in the network:
@@ -10,7 +10,7 @@ snmp-server community public RO
 # Open a regular Linux terminal
 # Go to the folder containing the script, using cd /folder_path
 # Enter "sudo python OSPF_SNMP.py" and the password for the account
-# You may also need to configure the permissions on the script first! "chmod 755 script.py"
+# You may also need to configure the permissions on the script first! 
 # Check the console output for any errors
 
 #Necessary Python packages (they are already installed on the Debian VM)
