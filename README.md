@@ -1,9 +1,9 @@
 # Pack-View
-A network toolkit for Network Professionals for Packet analysis and Troubleshooting
+A network toolkit for Network Professionals for Packet analysis and Troubleshooting.
 
 ## Table of Contents:
-- [Subnet Calculator](#subnet-calculator)
-- [Telnet and SSH Network Configuration](#telnet-and-ssh-network-configuration)
+- [Address Cal](#address-cal)
+- [Dev-connect](#dev-connect)
 - [DHCP Client Simulator](#dhcp-client-simulator)
 - [Network Parameter Extractor](#network-parameter-extractor)
 - [OSPF Network Discovery via SNMP](#ospf-network-discovery-via-snmp)
@@ -12,8 +12,10 @@ A network toolkit for Network Professionals for Packet analysis and Troubleshoot
 - [Network Topology](#network-topology)
 
 
-##Subnet Calculator
-##Telnet and SSH Network Configuration
+##Address Cal
+A subnet calculator which involves the user for ip address and subnet mask in dotted decimal Notation. It produces the output with network address, boardcast address, number of valid hosts, wildcard mask and mask bits.
+##Dev-connect
+
 ##DHCP Client Simulator
 ##Network Parameter Extractor
 ##OSPF Network Discovery via SNMP
