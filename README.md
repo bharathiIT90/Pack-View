@@ -19,6 +19,11 @@ A network toolkit for Network Professionals for Packet analysis and Troubleshoot
 ##OSPF Network Discovery via SNMP
 ##Packet sniffer
 ##Config File Comparator
+This application connects to a router in the network via Telnet, extracts the output of
+“show running-config” and “show startup-config”, filters the irrelevant lines and
+finally compares the configurations. This can be accomplished using the
+“show archive config differences” command in Cisco CLI. Instead i succeeded in
+accomplishing this task using Python.
 
 
 ##Network Topology
