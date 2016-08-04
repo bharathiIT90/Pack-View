@@ -17,7 +17,9 @@ A network toolkit for Network Professionals for Packet analysis and Troubleshoot
 ##DHCP Client Simulator
 ##Network Parameter Extractor
 ##OSPF Network Discovery via SNMP
-##Packet sniffer
+##Pack-Sniff
+Pack-Sniff is a basic network sniffer, which captures some predefined protocols
+and saves info about each network packet in an external file.
 ##Config File Comparator
 This application connects to a router in the network via Telnet, extracts the output of
 “show running-config” and “show startup-config”, filters the irrelevant lines and
